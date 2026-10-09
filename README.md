@@ -1,4 +1,4 @@
- 1.	Java Fundamentals
+cd 1.	Java Fundamentals
 1.1 Introduction to Java
 Java is a high-level, class-based, object-oriented programming language developed to create secure, reliable, and platform-independent software applications. It enables developers to write a program once and run it on any device that supports the Java Virtual Machine (JVM), following the principle of Write Once, Run Anywhere (WORA).
 Java was developed by James Gosling and his team at Sun Microsystems and officially released in 1995. Since then, it has become one of the most widely used programming languages in the world, powering enterprise software, banking systems, Android applications, cloud platforms, web services, big data applications, and Internet of Things (IoT) devices.
